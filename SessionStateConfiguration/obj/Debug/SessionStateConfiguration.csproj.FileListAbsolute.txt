@@ -1,0 +1,8 @@
+C:\Users\nhamt\Source\Repos\SessionStateConfigure\SessionStateConfiguration\bin\SessionStateConfiguration.dll.config
+C:\Users\nhamt\Source\Repos\SessionStateConfigure\SessionStateConfiguration\bin\SessionStateConfiguration.dll
+C:\Users\nhamt\Source\Repos\SessionStateConfigure\SessionStateConfiguration\bin\SessionStateConfiguration.pdb
+C:\Users\nhamt\Source\Repos\SessionStateConfigure\SessionStateConfiguration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nhamt\Source\Repos\SessionStateConfigure\SessionStateConfiguration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nhamt\Source\Repos\SessionStateConfigure\SessionStateConfiguration\obj\Debug\SessionStateConfiguration.csproj.CoreCompileInputs.cache
+C:\Users\nhamt\Source\Repos\SessionStateConfigure\SessionStateConfiguration\obj\Debug\SessionStateConfiguration.dll
+C:\Users\nhamt\Source\Repos\SessionStateConfigure\SessionStateConfiguration\obj\Debug\SessionStateConfiguration.pdb
